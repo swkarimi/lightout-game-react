@@ -1,6 +1,6 @@
 import { checkEndGame } from '../methods/logic';
 import Title from './Title';
-import Board from './board';
+import Board from './Board';
 import { useState } from 'react';
 import Won from './Won';
 
