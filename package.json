@@ -1,5 +1,6 @@
 {
   "name": "lightout",
+  "homepage": "https://fe-lightout-re.netlify.app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
